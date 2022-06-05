@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\bin\Debug\net6.0-windows\LetterExclusionCount.exe
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\bin\Debug\net6.0-windows\LetterExclusionCount.deps.json
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\bin\Debug\net6.0-windows\LetterExclusionCount.runtimeconfig.json
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\bin\Debug\net6.0-windows\LetterExclusionCount.dll
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\bin\Debug\net6.0-windows\LetterExclusionCount.pdb
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.Form1.resources
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.csproj.GenerateResource.cache
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.dll
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\refint\LetterExclusionCount.dll
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.pdb
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\LetterExclusionCount.genruntimeconfig.cache
+C:\Users\Jonathan\Documents\CodeStuff\LetterExclusionCount\LetterExclusionCount\obj\Debug\net6.0-windows\ref\LetterExclusionCount.dll
